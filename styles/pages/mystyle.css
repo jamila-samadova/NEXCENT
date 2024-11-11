@@ -1,0 +1,9 @@
+.header_footer_font{
+    font-family: var(--font_Roboto);
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: -0.1px;
+    /* text-align: right; */
+}
+
